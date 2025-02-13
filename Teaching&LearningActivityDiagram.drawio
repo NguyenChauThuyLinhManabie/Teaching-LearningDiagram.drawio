@@ -4,8 +4,157 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="3JgwnWnVIYdxjHfUhQVE-0" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-0" value="HQ" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="160" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-1" value="create event master&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="155" y="120" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-2" value="create actvity event&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="90" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-3" value="import event master" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="155" y="90" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-4" value="import activity event" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="120" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-5" value="add target location" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="345" y="150" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-6" value="add target school" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="345" y="180" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-7" value="add target grade" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="215" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-8" value="add target course" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="245" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-9" value="add mas&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ter staff&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" y="82.5" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-10" value="add master participant" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" y="107.5" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3JgwnWnVIYdxjHfUhQVE-11" target="3JgwnWnVIYdxjHfUhQVE-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-11" value="open booking system" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="730" y="82.5" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-12" value="Close booking system" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="730" y="538" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3JgwnWnVIYdxjHfUhQVE-13" target="3JgwnWnVIYdxjHfUhQVE-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-13" value="who can reserve (student only)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1120" y="112.5" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3JgwnWnVIYdxjHfUhQVE-14" target="3JgwnWnVIYdxjHfUhQVE-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-14" value="who can reserve (parent only)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1130" y="170" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-15" value="student will notify by in-app, email" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1350" y="112.5" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-16" value="parent will notify by in-app, email" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1350" y="170" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-17" value="assign to event" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="760" y="460" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3JgwnWnVIYdxjHfUhQVE-18" target="3JgwnWnVIYdxjHfUhQVE-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-18" value="expiration date" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="960" y="82.5" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3JgwnWnVIYdxjHfUhQVE-19" target="3JgwnWnVIYdxjHfUhQVE-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-19" value="who can reserve" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="955" y="112.5" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-20" value="=, &amp;lt; , &amp;gt; with current date" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1130" y="82.5" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3JgwnWnVIYdxjHfUhQVE-19" target="3JgwnWnVIYdxjHfUhQVE-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.015;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3JgwnWnVIYdxjHfUhQVE-3" target="3JgwnWnVIYdxjHfUhQVE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3JgwnWnVIYdxjHfUhQVE-1" target="3JgwnWnVIYdxjHfUhQVE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.025;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3JgwnWnVIYdxjHfUhQVE-1" target="3JgwnWnVIYdxjHfUhQVE-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="315" y="140" />
+              <mxPoint x="315" y="168" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.567;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3JgwnWnVIYdxjHfUhQVE-1" target="3JgwnWnVIYdxjHfUhQVE-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3JgwnWnVIYdxjHfUhQVE-1" target="3JgwnWnVIYdxjHfUhQVE-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3JgwnWnVIYdxjHfUhQVE-1" target="3JgwnWnVIYdxjHfUhQVE-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-38" value="send booking reminders" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="735" y="600" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-40" value="delete event master" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="135" y="360" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-41" value="clone event master" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="145" y="390" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-42" value="chatter" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-43" value="related event" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="155" y="450" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-44" value="activity tab" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="480" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-45" value="case 1:&lt;br&gt;activity event send to: parent only, &lt;br&gt;who can reserve: parent only. &lt;br&gt;Expected result: only parent can reserve and can see event card on calendar" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1620" y="77.5" width="430" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-46" value="&lt;div&gt;case 2:&lt;br&gt;activity event send to: student only,&lt;br&gt;who can reserve: student only.&lt;br&gt;Expected result: only student can reserve and can see event card on calendar&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1620" y="160" width="440" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-47" value="case 3:&lt;br&gt;activity event send to: parent and student,&lt;br&gt;who can reserve: parent only.&lt;br&gt;Expected result: only parent can reserve; parent and student can see event card on calendar" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1580" y="250" width="520" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-48" value="case 4:&lt;br&gt;activity event send to: parent and student,&lt;br&gt;who can reserve: student only.&lt;br&gt;Expected result: only student can reserve; parent and student can see event card on calendar" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1575" y="330" width="520" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-49" value="&lt;b&gt;parent dafault is requied, another parent is ontional&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1675" y="28" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.045;entryY=0.583;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3JgwnWnVIYdxjHfUhQVE-11" target="3JgwnWnVIYdxjHfUhQVE-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-52" value="assign label" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="155" y="280" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-53" value="edit label" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="165" y="310" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-54" value="change owner" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="147" y="336" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3JgwnWnVIYdxjHfUhQVE-55" value="over capacity can not reserve" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="910" y="208" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
